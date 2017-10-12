@@ -1,0 +1,50 @@
+body{
+  padding:50px 0px;
+  margin:0;
+  font-family: 'Roboto';
+  background-color: #0A2E53;
+  color: #C2C0B1;
+}
+
+form{
+  text-align:center;
+}
+
+ul{
+  list-style: none;
+  margin:0;
+  padding: 20px 0px;
+}
+
+li{
+  background-color: #C4AC82;
+  border-radius: 25px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+input{
+  margin: 10px;
+  border-radius:25px;
+  color: #100E0B;
+}
+
+a:link{
+  text-decoration: none;
+  color: #12100C;
+}
+
+#random{
+  text-align:center;
+  padding: 10px 0 30px 0;
+}
+
+
+i{
+  margin: 10px 0 5px 0;
+  color: #C2C0B1;
+}
+
+#footer{
+  text-align:center;
+}
